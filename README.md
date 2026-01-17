@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-👋 Olá, me chamo Ítalo Reis tenho 19 anos sou natural de Salvador - Bahia  
+👋 Olá, me chamo Ítalo Reis tenho 20 anos sou natural de Salvador - Bahia  
 👀 Estou interessado em aprender programação e aprendizado de máquina    
 🌱 Atualmente estou aprendendo o básico de git e algumas linguagens da area  
 💞️ Estou procurando colaborar em alguns projetos mais simples   
